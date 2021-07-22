@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Ex14_15</string>
+    <string name="btn_dialog">대화상자</string>
+    <string name="dialog_title">주의사항</string>
+    <string name="dialog_message">대화상자 연습 중입니다</string>
 </resources>
